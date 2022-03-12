@@ -1,16 +1,17 @@
 # **************************************************************************** #
 #                                                                              #
 #                                                         :::      ::::::::    #
-#    make_gen.py                                        :+:      :+:    :+:    #
+#    makefile_gen.py                                    :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
 #    By: mdupuis <mdupuis@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/03/09 19:03:29 by mdupuis           #+#    #+#              #
-#    Updated: 2022/03/11 16:26:18 by mdupuis          ###   ########.fr        #
+#    Updated: 2022/03/12 11:39:51 by mqueguin         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 # python3 make_gen.py pour lancer le script.
+
 
 import colorama
 from colorama import Fore
